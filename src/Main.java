@@ -5,7 +5,7 @@ public class Main {
       table.weight="60";
       table.price="250";
 
-        Bed bed = new Bed();
+        bed bed = new bed();
         bed.material = wood;
         bed.Color = " blue";
         bed.price = "$1000";

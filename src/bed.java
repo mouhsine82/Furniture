@@ -1,4 +1,4 @@
-public class Bed {
+public class bed {
 
     String Color;
     String material;
