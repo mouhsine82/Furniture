@@ -4,5 +4,18 @@ public class Main {
       table.brand="Ikea";
       table.weight="60";
       table.price="250";
+
+
+        bed bed = new bed();
+        bed.material = "wood";
+        bed.Color = " blue";
+        bed.price = "$1000";
+
+        bed bed1 = new bed();
+        bed1.material = "wood";
+        bed1.Color = " blue";
+        bed1.price = "$1000";
+
+
     }
 }
